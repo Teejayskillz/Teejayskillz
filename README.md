@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teejayskillz
-- 👀 I’m interested in javascript and python
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Fuulstack web developing
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building a an app or a website
 - 📫 How to reach me teejayadewale87@gmail.com
 
