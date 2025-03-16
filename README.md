@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teejayskillz
-- 👀 I’m interested in Fuulstack web developing
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on building a an app or a website
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me teejayadewale87@gmail.com
 
 <!---
